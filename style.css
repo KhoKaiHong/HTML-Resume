@@ -9,5 +9,4 @@ article {
     text-align: left;
     display: grid;
     grid-template-columns: 40%, 50%;
-    padding: 200px;
 }
